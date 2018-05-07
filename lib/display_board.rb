@@ -13,4 +13,4 @@ def display_board(board)
   puts line_3
 end
 
-display_board([" ", " ", " ", "X", " ", "X", " ", " ", " "]
+display_board([" ", " ", " ", "X", " ", "X", " ", " ", " "])
