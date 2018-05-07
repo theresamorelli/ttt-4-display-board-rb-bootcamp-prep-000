@@ -12,3 +12,5 @@ def display_board(board)
   puts h_line
   puts line_3
 end
+
+display_board([" ", " ", " ", "X", " ", "X", " ", " ", " "]
